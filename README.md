@@ -70,4 +70,3 @@ If you have any questions or suggestions, feel free to reach out or open an issu
 ---
 
 *Created with ❤️ by Somanath Nemilidinne*
-```
