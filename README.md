@@ -62,6 +62,7 @@ Want to add more features or improve the game? Feel free to fork the repo and cr
 ## 📸 Screenshots
 
 ![Turtle Racing Game](https://images.velog.io/images/daylee/post/03f1c6f1-4939-4390-8cde-55d984c65c8f/image.png)
+![Console Output](https://code-projects.org/wp-content/uploads/2021/06/trb.png)
 
 ## 🤔 Questions?
 
