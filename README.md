@@ -5,7 +5,7 @@ A simple fun game
 # 🐢 Turtle Racing Betting Game 🎉
 
 Welcome to the **Turtle Racing Betting Game**! Place your bets and watch as our colorful turtles race to the finish line.
-Will luck be on your side, or will you be left cheering for the turtles from the sidelines? 🏁
+Will luck be on your side, or will you be left cheering for the turtles from the sidelines?
 
 ## 🐢 Project Overview
 
